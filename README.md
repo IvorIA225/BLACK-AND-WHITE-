@@ -23,3 +23,4 @@ Puis ouvrez `http://localhost:4510` dans votre navigateur.
 * **Vercel** : importez le dépôt GitHub tel quel, `vercel.json` publie automatiquement `scrollcraft/builds/black-and-white`.
 * **GitHub Pages** : dans *Settings > Pages*, choisissez *Source: GitHub Actions* (le workflow `Deploy to GitHub Pages` publie directement le site à la racine).
 * **Netlify** : importez le dépôt, `netlify.toml` cible directement le bon dossier de publication.
+
