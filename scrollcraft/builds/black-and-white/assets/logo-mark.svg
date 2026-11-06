@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label="Emblème Le Black and White Bouaké 1986">
+  <!-- Outer octagonal-circle 1986 heritage seal -->
+  <rect x="6" y="6" width="108" height="108" rx="22" stroke="currentColor" stroke-width="2.2"/>
+  <rect x="12" y="12" width="96" height="96" rx="17" stroke="currentColor" stroke-width="0.9" stroke-opacity="0.55"/>
+  <!-- Split Black & White architectural shield -->
+  <path d="M60 18 C83.2 18 102 36.8 102 60 C102 83.2 83.2 102 60 102 Z" fill="currentColor"/>
+  <circle cx="60" cy="60" r="42" stroke="currentColor" stroke-width="1.8"/>
+  <!-- Apatam roof chevron & ember diamond at center axis -->
+  <path d="M32 56 L60 36 L88 56" stroke="#E05328" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="60,46 66,60 60,74 54,60" fill="#E05328"/>
+  <!-- Monogram B on light half, W knocked out on dark half -->
+  <text x="39" y="75" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="24" letter-spacing="-0.03em" fill="currentColor">B</text>
+  <text x="81" y="75" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="24" letter-spacing="-0.03em" fill="#F3EDE2">W</text>
+  <!-- 1986 heritage stamp -->
+  <text x="41" y="93" text-anchor="middle" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.12em" fill="currentColor">19</text>
+  <text x="79" y="93" text-anchor="middle" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.12em" fill="#F3EDE2">86</text>
+</svg>
+

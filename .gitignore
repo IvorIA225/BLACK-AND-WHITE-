@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Verification captures & temporary encoding outputs
+scrollcraft/lab/
+scrollcraft/builds/*/lab/
+scrollcraft/builds/*/out/
+
+# Environment & secrets (never commit API keys)
+.env
+.env.*
+*.env
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+*.log
